@@ -226,6 +226,7 @@ A curated list of tensor decomposition resources for *model compression*.
 - [Awesome-LoRA](https://github.com/lliai/Awesome-LoRA-Low-Rank-Adaptation) [![GitHub Repo stars](https://img.shields.io/github/stars/lliai/Awesome-LoRA-Low-Rank-Adaptation)](https://github.com/lliai/Awesome-LoRA-Low-Rank-Adaptation)
 - [matcouply](https://github.com/MarieRoald/matcouply) [![GitHub Repo stars](https://img.shields.io/github/stars/MarieRoald/matcouply)](https://github.com/MarieRoald/matcouply)
 - [torchTT](https://github.com/ion-g-ion/torchTT) [![GitHub Repo stars](https://img.shields.io/github/stars/ion-g-ion/torchTT)](https://github.com/ion-g-ion/torchTT)
+- [Tensor4ML](https://github.com/xinychen/Tensor4ML) [![GitHub Repo stars](https://img.shields.io/github/stars/xinychen/Tensor4ML)](https://github.com/xinychen/Tensor4ML)
 
 ## :question: Workshops
 - [Tensor Workshops](https://tensorworkshop.github.io/)
