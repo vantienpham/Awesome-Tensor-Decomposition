@@ -77,6 +77,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### CNN
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Reduced storage direct tensor ring decomposition for convolutional neural networks compression](https://arxiv.org/abs/2405.10802) [![GitHub Repo stars](https://img.shields.io/github/stars/mateuszgabor/rsdtr_compression)](https://github.com/mateuszgabor/rsdtr_compression)| Neural Networks | 2025 |
 | [An overview of tensor and matrix decomposition methods, applied to deep neural networks](https://link.springer.com/article/10.1007/s12530-025-09733-6) | Evolving Systems | 2025 |
 | [FETTA: Flexible and Efficient Hardware Accelerator for Tensorized Neural Network Training](https://arxiv.org/abs/2504.06474) | Arxiv | 2025 |
 | [Fine-grained hierarchical singular value decomposition for convolutional neural networks compression and acceleration](https://doi.org/10.1016/j.neucom.2025.129966) | Neurocomputing | 2025 |
@@ -102,7 +103,6 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Compression-aware Training of Neural Networks using Frank-Wolfe](https://arxiv.org/abs/2205.11921) [![GitHub Repo stars](https://img.shields.io/github/stars/ZIB-IOL/compression-aware-SFW)](https://github.com/ZIB-IOL/compression-aware-SFW)| Arxiv | 2024 |
 | [A Practical Approach for Employing Tensor Train Decomposition in Edge Devices](https://link.springer.com/article/10.1007/s10766-024-00762-3) | IJPP | 2024 |
 | [Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition](https://arxiv.org/abs/2405.03089) | Arxiv | 2024 |
-| [Reduced storage direct tensor ring decomposition for convolutional neural networks compression](https://arxiv.org/abs/2405.10802) [![GitHub Repo stars](https://img.shields.io/github/stars/mateuszgabor/rsdtr_compression)](https://github.com/mateuszgabor/rsdtr_compression)| Arxiv | 2024 |
 | [Federated Learning Using Coupled Tensor Train Decomposition](https://arxiv.org/abs/2403.02898) | Arxiv | 2024 |
 | [Neural Network Compression Based on Tensor Ring Decomposition](https://ieeexplore.ieee.org/abstract/document/10510501) | TNNLS | 2024 |
 | [Enhanced network compression through tensor decompositions and pruning](https://hal.science/hal-04475167v1) [![GitHub Repo stars](https://img.shields.io/github/stars/pvti/NORTON)](https://github.com/pvti/NORTON)| TNNLS | 2024 |
