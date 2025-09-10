@@ -227,6 +227,7 @@ A curated list of tensor decomposition resources for *model compression*.
 - [matcouply](https://github.com/MarieRoald/matcouply) [![GitHub Repo stars](https://img.shields.io/github/stars/MarieRoald/matcouply)](https://github.com/MarieRoald/matcouply)
 - [torchTT](https://github.com/ion-g-ion/torchTT) [![GitHub Repo stars](https://img.shields.io/github/stars/ion-g-ion/torchTT)](https://github.com/ion-g-ion/torchTT)
 - [Tensor4ML](https://github.com/xinychen/Tensor4ML) [![GitHub Repo stars](https://img.shields.io/github/stars/xinychen/Tensor4ML)](https://github.com/xinychen/Tensor4ML)
+- [tensor-decomposition-in-python](https://github.com/mohammadbashiri/tensor-decomposition-in-python) [![GitHub Repo stars](https://img.shields.io/github/stars/mohammadbashiri/tensor-decomposition-in-python)](https://github.com/mohammadbashiri/tensor-decomposition-in-python)
 
 ## :question: Workshops
 - [Tensor Workshops](https://tensorworkshop.github.io/)
