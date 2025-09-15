@@ -77,6 +77,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### CNN
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Coupled Tensor Decomposition for Compact Network Representation](https://hal.science/hal-05249052v1) [![GitHub Repo stars](https://img.shields.io/github/stars/codec-ai/codec-ai.github.io)](https://github.com/codec-ai/codec-ai.github.io)| TNNLS | 2025 |
 | [Reduced storage direct tensor ring decomposition for convolutional neural networks compression](https://arxiv.org/abs/2405.10802) [![GitHub Repo stars](https://img.shields.io/github/stars/mateuszgabor/rsdtr_compression)](https://github.com/mateuszgabor/rsdtr_compression)| Neural Networks | 2025 |
 | [An overview of tensor and matrix decomposition methods, applied to deep neural networks](https://link.springer.com/article/10.1007/s12530-025-09733-6) | Evolving Systems | 2025 |
 | [FETTA: Flexible and Efficient Hardware Accelerator for Tensorized Neural Network Training](https://arxiv.org/abs/2504.06474) | Arxiv | 2025 |
