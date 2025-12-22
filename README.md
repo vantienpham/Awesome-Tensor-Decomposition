@@ -6,6 +6,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
 | [TD-MoE: Tensor Decomposition for MoE Models](https://openreview.net/forum?id=D9cnZNZfxX) | ICLR | 2026 |
+| [Efficient Resource-Constrained Training of Vision Transformers via Subspace Optimization](https://openreview.net/forum?id=0nvQ5kHXf4) | ICLR | 2026 |
 | [QSVD: Efficient Low-rank Approximation for Unified Query-Key-Value Weight Compression in Low-Precision Vision-Language Models](https://arxiv.org/abs/2510.16292) [![GitHub Repo stars](https://img.shields.io/github/stars/SAI-Lab-NYU/QSVD)](https://github.com/SAI-Lab-NYU/QSVD)| NeurIPS | 2025 |
 | [MoE-SVD: Structured Mixture-of-Experts LLMs Compression via Singular Value Decomposition](https://proceedings.mlr.press/v267/li25az.html) | ICML | 2025 |
 | [LS-PRISM: A layer-selective pruning method via low-rank approximation and sparsification for efficient large language model compression](https://doi.org/10.1016/j.neunet.2025.107909) | Neural Networks | 2025 |
