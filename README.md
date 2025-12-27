@@ -190,6 +190,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Ultimate tensorization: compressing convolutional and FC layers alike](https://arxiv.org/abs/1611.03214) [![GitHub Repo stars](https://img.shields.io/github/stars/timgaripov/TensorNet-TF)](https://github.com/timgaripov/TensorNet-TF) | NIPSW | 2016 |
 | [Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition](https://arxiv.org/abs/1412.6553) | ICLR | 2015 |
 | [Speeding up Convolutional Neural Networks with Low Rank Expansions](https://arxiv.org/abs/1405.3866) | BMVC | 2014 |
+| [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/abs/1404.0736) | NIPS | 2014 |
 
 ### RNN
 | Title                                                        | Venue      | Year |
