@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models](https://openreview.net/forum?id=zrmQ4koOw9) | ICLR | 2026 |
 | [TD-MoE: Tensor Decomposition for MoE Models](https://openreview.net/forum?id=D9cnZNZfxX) | ICLR | 2026 |
 | [Efficient Resource-Constrained Training of Vision Transformers via Subspace Optimization](https://openreview.net/forum?id=0nvQ5kHXf4) | ICLR | 2026 |
 | [QSVD: Efficient Low-rank Approximation for Unified Query-Key-Value Weight Compression in Low-Precision Vision-Language Models](https://arxiv.org/abs/2510.16292) [![GitHub Repo stars](https://img.shields.io/github/stars/SAI-Lab-NYU/QSVD)](https://github.com/SAI-Lab-NYU/QSVD)| NeurIPS | 2025 |
