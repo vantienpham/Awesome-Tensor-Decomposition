@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [UniQL: Unified Quantization and Low-rank Compression for Adaptive Edge LLMs](https://openreview.net/forum?id=iOGu4wtDTF) | ICLR | 2026 |
 | [WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models](https://openreview.net/forum?id=zrmQ4koOw9) | ICLR | 2026 |
 | [TD-MoE: Tensor Decomposition for MoE Models](https://openreview.net/forum?id=D9cnZNZfxX) | ICLR | 2026 |
 | [Efficient Resource-Constrained Training of Vision Transformers via Subspace Optimization](https://openreview.net/forum?id=0nvQ5kHXf4) | ICLR | 2026 |
