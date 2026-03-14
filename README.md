@@ -248,3 +248,4 @@ A curated list of tensor decomposition resources for *model compression*.
 - [AAAI'25 workshop on CoLoRAI - Connecting Low-Rank Representations in AI](https://april-tools.github.io/colorai/)
 - [Workshop on Low-Rank Models and Applications LRMA 25](https://sites.google.com/view/lrma25)
 - [Learning Deep Low-Dimensional Models from High-Dimensional Data: From Theory to Practice](https://low-dim-models-tutorials.github.io/iccv2025-tutorial/)
+- [Foundations of Tensor/Low-Rank Computations for AI](https://grigoris.ece.wisc.edu/tutorials/2025_neurips/)
