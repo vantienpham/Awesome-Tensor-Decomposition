@@ -206,6 +206,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ## :books: Surveys
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Low-Rank Tensor Decompositions for the Theory of Neural Networks: Understanding deep learning through the lens of tensor formats](https://ieeexplore.ieee.org/document/11480035) | IEEE Signal Processing Magazine | 2026 |
 | [A survey of latent factorization of tensor-based model compression: Algorithms, toolboxes and future directions](https://www.sciencedirect.com/science/article/pii/S0925231226008520) | Neurocomputing | 2026 |
 | [Tensor Decompositions for Signal Processing: Theory, Advances, and Applications](https://www.sciencedirect.com/science/article/pii/S0165168425003056) | Signal Processing | 2026 |
 | [Low Rank Optimization for Efficient Deep Learning: Making a Balance Between Compact Architecture And Fast Training](https://ieeexplore.ieee.org/document/10355073) | Journal of Systems Engineering and Electronics | 2024 |
