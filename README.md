@@ -247,6 +247,7 @@ A curated list of tensor decomposition resources for *model compression*.
 - [tensor-decomposition-in-python](https://github.com/mohammadbashiri/tensor-decomposition-in-python) [![GitHub Repo stars](https://img.shields.io/github/stars/mohammadbashiri/tensor-decomposition-in-python)](https://github.com/mohammadbashiri/tensor-decomposition-in-python)
 
 ## :question: Workshops
+- [Workshop on the Geometry of Tensors and Neural Networks 2026](https://cran-simul.github.io/geometry-nnets-tensors-2026/)
 - [The 2nd Workshop on Connecting Low-rank Representations in AI](https://grigoris.ece.wisc.edu/workshops/colorai-icml-2026/)
 - [Foundations of Tensor/Low-Rank Computations for AI](https://grigoris.ece.wisc.edu/tutorials/2025_neurips/)
 - [Learning Deep Low-Dimensional Models from High-Dimensional Data: From Theory to Practice](https://low-dim-models-tutorials.github.io/iccv2025-tutorial/)
