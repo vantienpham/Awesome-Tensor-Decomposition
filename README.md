@@ -247,10 +247,10 @@ A curated list of tensor decomposition resources for *model compression*.
 - [tensor-decomposition-in-python](https://github.com/mohammadbashiri/tensor-decomposition-in-python) [![GitHub Repo stars](https://img.shields.io/github/stars/mohammadbashiri/tensor-decomposition-in-python)](https://github.com/mohammadbashiri/tensor-decomposition-in-python)
 
 ## :question: Workshops
-- [Tensor Workshops](https://tensorworkshop.github.io/)
-- [LoRAINNe’24: workshop on LOw-Rank Approximations and their Interactions with Neural NEtworks](https://cran-simul.github.io/workshop-lorainne-2024/)
-- [AAAI'25 workshop on CoLoRAI - Connecting Low-Rank Representations in AI](https://april-tools.github.io/colorai/)
-- [Workshop on Low-Rank Models and Applications LRMA 25](https://sites.google.com/view/lrma25)
-- [Learning Deep Low-Dimensional Models from High-Dimensional Data: From Theory to Practice](https://low-dim-models-tutorials.github.io/iccv2025-tutorial/)
-- [Foundations of Tensor/Low-Rank Computations for AI](https://grigoris.ece.wisc.edu/tutorials/2025_neurips/)
 - [The 2nd Workshop on Connecting Low-rank Representations in AI](https://grigoris.ece.wisc.edu/workshops/colorai-icml-2026/)
+- [Foundations of Tensor/Low-Rank Computations for AI](https://grigoris.ece.wisc.edu/tutorials/2025_neurips/)
+- [Learning Deep Low-Dimensional Models from High-Dimensional Data: From Theory to Practice](https://low-dim-models-tutorials.github.io/iccv2025-tutorial/)
+- [Workshop on Low-Rank Models and Applications LRMA 25](https://sites.google.com/view/lrma25)
+- [AAAI'25 workshop on CoLoRAI - Connecting Low-Rank Representations in AI](https://april-tools.github.io/colorai/)
+- [LoRAINNe’24: workshop on LOw-Rank Approximations and their Interactions with Neural NEtworks](https://cran-simul.github.io/workshop-lorainne-2024/)
+- [Tensor Workshops](https://tensorworkshop.github.io/)
