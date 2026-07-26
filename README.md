@@ -88,6 +88,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### CNN
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Deep Neural Network Compression via Data-Driven Low-Rank Singular Value Decomposition](https://www.jair.org/index.php/jair/article/view/18694) | Journal of Artificial Intelligence Research | 2026 |
 | [Adaptive Tucker Decomposition-based Progressive Model Compression for Convolutional Neural Networks](https://www.sciencedirect.com/science/article/pii/S0957417426000679) | Expert Systems with Applications | 2026 |
 | [Distribution-Aware Tensor Decomposition for Compression of Convolutional Neural Networks](https://openreview.net/forum?id=ODgWBaErst) [![GitHub Repo stars](https://img.shields.io/github/stars/alpkll/Parafac_Sigma)](https://github.com/alpkll/Parafac_Sigma)| NeurIPS | 2025 |
 | [Coupled Tensor Decomposition for Compact Network Representation](https://hal.science/hal-05249052v1) [![GitHub Repo stars](https://img.shields.io/github/stars/codec-ai/codec-ai.github.io)](https://github.com/codec-ai/codec-ai.github.io)| TNNLS | 2025 |
