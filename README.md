@@ -114,6 +114,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [An Accuracy-Preserving Neural Network Compression via Tucker Decomposition](https://ieeexplore.ieee.org/document/10614384)| IEEE Transactions on Sustainable Computing | 2024 |
 | [Convolution Filter Compression via Sparse Linear Combinations of Quantized Basis](https://ieeexplore.ieee.org/document/10689618)| TNNLS | 2024 |
 | [Co-Exploring Structured Sparsification and Low-Rank Tensor Decomposition for Compact DNNs](https://ieeexplore.ieee.org/document/10574865)| TNNLS | 2024 |
+| [Rope-net: deep convolutional neural network via robust principal component analysis](https://ieeexplore.ieee.org/document/10574865)| Machine Learning | 2025 |
 | [Coarse-To-Fine Tensor Trains for Compact Visual Representations](https://arxiv.org/abs/2406.04332) [![GitHub Repo stars](https://img.shields.io/github/stars/sebulo/PuTT)](https://github.com/sebulo/PuTT)| ICML | 2024 |
 | [Position: Tensor Networks are a Valuable Asset for Green AI](https://openreview.net/pdf?id=mcg6jppkwb)| ICML | 2024 |
 | [Compression-aware Training of Neural Networks using Frank-Wolfe](https://arxiv.org/abs/2205.11921) [![GitHub Repo stars](https://img.shields.io/github/stars/ZIB-IOL/compression-aware-SFW)](https://github.com/ZIB-IOL/compression-aware-SFW)| Arxiv | 2024 |
