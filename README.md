@@ -93,6 +93,8 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Distribution-Aware Tensor Decomposition for Compression of Convolutional Neural Networks](https://openreview.net/forum?id=ODgWBaErst) [![GitHub Repo stars](https://img.shields.io/github/stars/alpkll/Parafac_Sigma)](https://github.com/alpkll/Parafac_Sigma)| NeurIPS | 2025 |
 | [Coupled Tensor Decomposition for Compact Network Representation](https://hal.science/hal-05249052v1) [![GitHub Repo stars](https://img.shields.io/github/stars/codec-ai/codec-ai.github.io)](https://github.com/codec-ai/codec-ai.github.io)| TNNLS | 2025 |
 | [Reduced storage direct tensor ring decomposition for convolutional neural networks compression](https://arxiv.org/abs/2405.10802) [![GitHub Repo stars](https://img.shields.io/github/stars/mateuszgabor/rsdtr_compression)](https://github.com/mateuszgabor/rsdtr_compression)| Neural Networks | 2025 |
+| [Co-Exploring Structured Sparsification and Low-Rank Tensor Decomposition for Compact DNNs](https://ieeexplore.ieee.org/document/10574865)| TNNLS | 2025 |
+| [Rope-net: deep convolutional neural network via robust principal component analysis](https://ieeexplore.ieee.org/document/10574865)| Machine Learning | 2025 |
 | [QuaDCNN: Quantized compression of deep CNN based on tensor-train decomposition with automatic rank determination](https://doi.org/10.1016/j.neucom.2025.130047) | Neurocomputing | 2025 |
 | [An overview of tensor and matrix decomposition methods, applied to deep neural networks](https://link.springer.com/article/10.1007/s12530-025-09733-6) | Evolving Systems | 2025 |
 | [FETTA: Flexible and Efficient Hardware Accelerator for Tensorized Neural Network Training](https://arxiv.org/abs/2504.06474) | Arxiv | 2025 |
@@ -113,8 +115,6 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Compact Model Training by Low-Rank Projection With Energy Transfer](https://ieeexplore.ieee.org/document/10551437) [![GitHub Repo stars](https://img.shields.io/github/stars/BZQLin/LRPET)](https://github.com/BZQLin/LRPET)| TNNLS | 2024 |
 | [An Accuracy-Preserving Neural Network Compression via Tucker Decomposition](https://ieeexplore.ieee.org/document/10614384)| IEEE Transactions on Sustainable Computing | 2024 |
 | [Convolution Filter Compression via Sparse Linear Combinations of Quantized Basis](https://ieeexplore.ieee.org/document/10689618)| TNNLS | 2024 |
-| [Co-Exploring Structured Sparsification and Low-Rank Tensor Decomposition for Compact DNNs](https://ieeexplore.ieee.org/document/10574865)| TNNLS | 2024 |
-| [Rope-net: deep convolutional neural network via robust principal component analysis](https://ieeexplore.ieee.org/document/10574865)| Machine Learning | 2025 |
 | [Coarse-To-Fine Tensor Trains for Compact Visual Representations](https://arxiv.org/abs/2406.04332) [![GitHub Repo stars](https://img.shields.io/github/stars/sebulo/PuTT)](https://github.com/sebulo/PuTT)| ICML | 2024 |
 | [Position: Tensor Networks are a Valuable Asset for Green AI](https://openreview.net/pdf?id=mcg6jppkwb)| ICML | 2024 |
 | [Compression-aware Training of Neural Networks using Frank-Wolfe](https://arxiv.org/abs/2205.11921) [![GitHub Repo stars](https://img.shields.io/github/stars/ZIB-IOL/compression-aware-SFW)](https://github.com/ZIB-IOL/compression-aware-SFW)| Arxiv | 2024 |
