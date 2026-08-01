@@ -208,6 +208,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### RNN
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Tensor-Decomposed RNNs for Marked Temporal Point Processes](https://openreview.net/forum?id=Y0up92GcjF) | TMLR | 2026 |
 | [Kronecker CP Decomposition With Fast Multiplication for Compressing RNNs](https://arxiv.org/abs/2008.09342) | TNNLS | 2021 |
 
 ## :books: Surveys
