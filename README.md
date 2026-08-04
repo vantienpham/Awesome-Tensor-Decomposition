@@ -153,6 +153,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Deep neural network compression by Tucker decomposition with nonlinear response](https://www.sciencedirect.com/science/article/pii/S0950705122000326) | Knowledge-Based Systems | 2022 |
 | [Nested compression of convolutional neural networks with Tucker-2 decomposition](https://ieeexplore.ieee.org/abstract/document/9892959) | IJCNN | 2022 |
 | [PSM-nets: Compressing Neural Networks with Product of Sparse Matrices](https://ieeexplore.ieee.org/abstract/document/9533408) | IJCNN | 2022 |
+| [PARS: Proxy-Based Automatic Rank Selection for Neural Network Compression via Low-Rank Weight Approximation](https://www.mdpi.com/2227-7390/10/20/3801) | Mathematics | 2022 |
 | [A Design Space Exploration Methodology for Enabling Tensor Train Decomposition in Edge Devices](https://link.springer.com/chapter/10.1007/978-3-031-15074-6_11) | SAMOS | 2022 |
 | [Spatiotemporal Joint Filter Decomposition in 3D Convolutional Neural Networks](https://openreview.net/forum?id=Alr5_kKmLBX) | NeurIPS | 2021 |
 | [Compressing Neural Networks: Towards Determining the Optimal Layer-wise Decomposition](https://arxiv.org/abs/2107.11442) [![GitHub Repo stars](https://img.shields.io/github/stars/lucaslie/torchprune)](https://github.com/lucaslie/torchprune)| NeurIPS | 2021 |
