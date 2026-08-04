@@ -111,6 +111,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Activation Map Compression through Tensor Decomposition for Deep Learning](https://neurips.cc/virtual/2024/poster/95125) [![GitHub Repo stars](https://img.shields.io/github/stars/Le-TrungNguyen/NeurIPS2024-ActivationCompression)](https://github.com/Le-TrungNguyen/NeurIPS2024-ActivationCompression)| NeurIPS | 2024 |
 | [Geometry-aware training of factorized layers in tensor Tucker format](https://arxiv.org/abs/2305.19059)| NeurIPS | 2024 |
 | [Robustness of Tensor Decomposition-Based Neural Network Compression](https://ieeexplore.ieee.org/document/10647942)| ICIP | 2024 |
+| [Stable Low-Rank CP Decomposition for Compression of Convolutional Neural Networks Based on Sensitivity](https://www.mdpi.com/2076-3417/14/4/1491)| Applied Sciences | 2024 |
 | [How to Train Your Unstable Looped Tensor Network](https://ieeexplore.ieee.org/document/10695808)| JSTSP | 2024 |
 | [Learning Low-Rank Tensor Cores with Probabilistic l0-Regularized Rank Selection for Model Compression](https://www.ijcai.org/proceedings/2024/418) [![GitHub Repo stars](https://img.shields.io/github/stars/ctxGou/Tensor-L0-Compression)](https://github.com/ctxGou/Tensor-L0-Compression)| IJCAI | 2024 |
 | [Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition](https://openreview.net/forum?id=1KCrVMJoJ9) [![GitHub Repo stars](https://img.shields.io/github/stars/XitongSystem/LoRITa)](https://github.com/XitongSystem/LoRITa)| TMLR | 2024 |
