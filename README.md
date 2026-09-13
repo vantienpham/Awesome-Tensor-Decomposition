@@ -9,6 +9,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Surviving Resource-constraint Compression: Capability Retention under Tensor-train Decomposition for Sub-billion Parameter Language Models](https://link.springer.com/article/10.1007/s11633-026-1653-x) | Machine Intelligence Research | 2026 |
 | [Advancing SVD-based LLM Compression via Layer-Wise Error Model Search](https://openreview.net/forum?id=IjIgNPFuCt) [![GitHub Repo stars](https://img.shields.io/github/stars/lems-svd/lems)](https://github.com/lems-svd/lems)| ICML | 2026 |
 | [CARE: Covariance-Aware and Rank-Enhanced Decomposition for Enabling Multi-Head Latent Attention](https://arxiv.org/abs/2603.17946) [![GitHub Repo stars](https://img.shields.io/github/stars/FutureMLS-Lab/CARE)](https://github.com/FutureMLS-Lab/CARE)| ICLR | 2026 |
+| [Scalable Kronecker-Factored Fisher Approximation for Neural Network Parameter Sensitivity](https://openreview.net/forum?id=pNe5fVK1tR) [![GitHub Repo stars](https://img.shields.io/github/stars/sayankotor/FisherKronecker)](https://github.com/sayankotor/FisherKronecker)| ICLR | 2026 |
 | [LeSTD: LLM Compression via Learning-based Sparse Tensor Decomposition](https://openreview.net/forum?id=0oHaazjMUX) | ICLR | 2026 |
 | [Large Language Model Compression with Global Rank and Sparsity Optimization](https://openreview.net/forum?id=ZaPmQ0NHs4) | ICLR | 2026 |
 | [UniQL: Unified Quantization and Low-rank Compression for Adaptive Edge LLMs](https://openreview.net/forum?id=iOGu4wtDTF) | ICLR | 2026 |
