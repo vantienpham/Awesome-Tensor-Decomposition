@@ -94,6 +94,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### CNN
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [VALOR: Vector-Aware Low-Rank Restructuring of Neural Networks for RISC-V Inference](https://zhihaoxu1325.github.io/docs/VALOR_NeurIPS_2026.pdf) | NeurIPS | 2026 |
 | [Basis Sharing and Coefficient Pruning for Efficient Neural Network Compression](https://doi.org/10.1016/j.neunet.2026.109630) | Neural Networks | 2026 |
 | [A Novel Approach to Lossless Convolutional Neural Network Compression via Progressive Knowledge Distillation-Incorporated Low-Rank Compression](https://doi.org/10.1016/j.neunet.2026.109631) | Neural Networks | 2026 |
 | [Deep Neural Network Compression via Data-Driven Low-Rank Singular Value Decomposition](https://www.jair.org/index.php/jair/article/view/18694) | Journal of Artificial Intelligence Research | 2026 |
