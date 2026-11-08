@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [LSVD: Loss-Aware Low-Rank Approximation for Efficient Low-Precision Vision-Language Models](https://arxiv.org/html/2606.00573v2) | NeurIPS | 2026 |
 | [Understanding Calibration and Truncation Error Propagation in Training-Free Low-Rank Compression for LLMs](https://arxiv.org/abs/2608.08506v1) | COLM | 2026 |
 | [Surviving Resource-constraint Compression: Capability Retention under Tensor-train Decomposition for Sub-billion Parameter Language Models](https://link.springer.com/article/10.1007/s11633-026-1653-x) | Machine Intelligence Research | 2026 |
 | [Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression](https://arxiv.org/abs/2602.02848) [![GitHub Repo stars](https://img.shields.io/github/stars/mint-vu/Zero-Sum-SVD)](https://github.com/mint-vu/Zero-Sum-SVD)| ICML | 2026 |
